@@ -29,7 +29,7 @@ I wouldn’t say I made specific trade-offs, but I did compromise on unit tests 
 The weakest parts, in my opinion, are validation and testing. I don’t have extensive professional experience with iOS applications yet, but I tried my best to learn and implement things along the way. In my current role, I focus on core iOS system functions like background task scheduling, which has meant I haven’t kept my app-building skills as sharp as I’d like. Nonetheless, I aimed to produce a functional, well-coded app.
 
 ### External Code and Dependencies: Did you use any external code, libraries, or dependencies?
-	•	URLSession: Used for networking to fetch recipes and images.
+URLSession: Used for networking to fetch recipes and images.
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 With more time, I believe I could address the current shortcomings of the app. Most of my abilities are reflected in the code I’ve written. I’m grateful for this assessment, as it helped me learn new concepts that I plan to refine and perfect soon.
